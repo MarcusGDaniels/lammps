@@ -1,0 +1,2 @@
+lib/atc/libatc.a filter=lfs diff=lfs merge=lfs -text
+potentials/C_10_10.mesocnt filter=lfs diff=lfs merge=lfs -text
